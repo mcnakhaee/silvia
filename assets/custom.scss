@@ -90,6 +90,18 @@
        url('fonts/petrona-v16-latin-500.svg#Petrona') format('svg'); /* Legacy iOS */
 }
 
+@font-face {
+  font-family: 'Nahid-FD';
+  src: url('fonts/Nahid-FD.eot');
+  src: url('fonts/Nahid-FD.eot') format('embedded-opentype'),
+       url('fonts/Nahid-FD.svg') format('svg'),
+       url('fonts/Nahid-FD.ttf') format('truetype'),
+       url('fonts/Nahid-FD.woff') format('woff'),
+       url('fonts/Nahid-FD.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  
+}
 
 // ----------------------------------------------------------------------------
 // ----custom styling----------------------------------------------------------

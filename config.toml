@@ -66,8 +66,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Cyntho Next"
-  customheadingFontFamily = "Petrona" # Libre Baskerville / Heuristica / Ovo
+  customtextFontFamily = "Nahid-FD"
+  customheadingFontFamily = "Nahid-FD" # Libre Baskerville / Heuristica / Ovo
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
